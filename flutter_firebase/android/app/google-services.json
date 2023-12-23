@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283418907529",
+    "project_id": "practica-edteam",
+    "storage_bucket": "practica-edteam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283418907529:android:6733ad98589a2ed99d8758",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALzRPsEkfkGgQTtpesmaUWqhbOCMblkDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
